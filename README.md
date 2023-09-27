@@ -16,12 +16,8 @@
 *Read more on Vagrant, Git and Emacs. If possible choose Emacs as your primary editor.*
 
 Use links below:
- 
 [1]:https://www.gnu.org/software/emacs/tour/
-
 [2]:https://learngitbranching.js.org/
-
-
 
 [^Revisit page later]
 
