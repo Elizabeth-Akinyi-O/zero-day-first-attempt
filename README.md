@@ -12,11 +12,16 @@
 1. You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 2. Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-*Read more on Vagrant, Git and Emacs. If possible should Emacs as your primary editor*
 
-Use links below:
+*Read more on Vagrant, Git and Emacs. If possible choose Emacs as your primary editor.*
+
+Use links below:;NBSP 
 [1]:https://www.gnu.org/software/emacs/tour/
+
+
 [2]:https://learngitbranching.js.org/
+
+
 
 [^Revisit page later]
 
